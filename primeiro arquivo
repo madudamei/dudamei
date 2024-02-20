@@ -1,0 +1,49 @@
+Nome: Maria Eduarda Ferraz Meirelles 
+
+
+TRABALHO 1
+
+Conceitos Iniciais 
+
+1 - Forneça a definição do termo ARQUIVO, no contexto da computação. 
+Arquivo, no contexto de computação, é onde os dados fundamentais são guardados, para a manipulação de informações e suas extensões abrem diversos programas, 
+e que são necessários para executar. Ou seja, documento no qual armazena dados para uso posterior ou quando for essencial.
+- O que é um ARQUIVO DE TEXTO? 
+São documentos de textos, com código fonte C. Isto é, uma espécie de ficheiro informático que é estruturado com linhas e para seu fim é necessário colocar um ou mais caracteres especiais,
+chamado de marcador fim-de-arquivo. 
+- Explique o que é uma VARIÁVEL, no contexto da programação de computadores.
+Seria um espaço dentro da memória do computador designado a um dado que é modificado no momento da execução do algoritmo. 
+Ademais, é possível reter e representar um valor ou expressão. Em suma, é o nome do programa que guarda o valor. 
+- Explique o que seria um SERVIDOR, no contexto da computação. 
+Servidor, no contexto da computação, é um computador equipado com um ou mais processadores, que atendem requisições de dispositivos clientes, 
+e que são capazes de executar programas, afim de prover processamento ou capacidade de armazenamento de dados, como hard disks internos ou memórias SSD. 
+
+
+Link do GitHub: 
+https://github.com/madudamei/dudamei 
+
+
+
+TRABALHO 2 
+
+Nome: Maria Eduarda Ferraz Meirelles
+
+1 – Encontre referências e comente:
+a. A relação entre a LGPD e os Data Centers no Brasil 
+A Função do Dara Center é assegurar que os dados e sistemas presentes nele possam ser acessados a qualquer momento. 
+Ademais, considera-se um local onde rodam os sistemas nos quais são instalados e mantidos os dados, tendo assim, que essa estrutura que opera com base nos preceitos da LGPD. 
+Dessa forma, cabe os provadores de infraestrutura, garantir a proteção física dos ambientes para a gestão segura das informações. 
+
+b. Formatos de arquivos de dados proprietários e abertos 
+Os formatos de arquivos de dados proprietários demonstram a privatização da memória digital.
+Em contrapartida, os formatos de arquivos de dados abertos seriam os arquivos que seguem padrões abertos, dado que suas especificações são publicadas e podem ser apresentadas por todos. 
+
+b.1 forneça exemplos de formatos 
+sao aquivos de texto, arquivps de imagem, arquivos de som, arquivos de vídeo, arquivos compactos, banco de dados e arquivos executáveis. 
+
+b.2 discuta as implicações relacionadas a dados públicos 
+entede-se que os dados pessoais devem ser tratados considerando a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização. 
+Assim sendo, a LGPD define, por exemplo, que uma organização pode, sem precisar pedir novo consentimento, tratar dados tornados anterior e manifestamente 
+2 – Inclua seus comentários no arquivo de texto NO GitHub
+
+Referências: 
