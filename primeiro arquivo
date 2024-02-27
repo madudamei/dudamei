@@ -31,19 +31,48 @@ Nome: Maria Eduarda Ferraz Meirelles
 1 – Encontre referências e comente:
 a. A relação entre a LGPD e os Data Centers no Brasil 
 A Função do Dara Center é assegurar que os dados e sistemas presentes nele possam ser acessados a qualquer momento. 
-Ademais, considera-se um local onde rodam os sistemas nos quais são instalados e mantidos os dados, tendo assim, que essa estrutura que opera com base nos preceitos da LGPD. 
+Ademais, considera-se um local onde rodam os sistemas nos quais são instalados e mantidos os dados, 
+tendo assim, que essa estrutura que opera com base nos preceitos da LGPD. 
 Dessa forma, cabe os provadores de infraestrutura, garantir a proteção física dos ambientes para a gestão segura das informações. 
 
 b. Formatos de arquivos de dados proprietários e abertos 
 Os formatos de arquivos de dados proprietários demonstram a privatização da memória digital.
-Em contrapartida, os formatos de arquivos de dados abertos seriam os arquivos que seguem padrões abertos, dado que suas especificações são publicadas e podem ser apresentadas por todos. 
+Em contrapartida, os formatos de arquivos de dados abertos seriam os arquivos que seguem padrões abertos, 
+dado que suas especificações são publicadas e podem ser apresentadas por todos. 
 
 b.1 forneça exemplos de formatos 
 sao aquivos de texto, arquivps de imagem, arquivos de som, arquivos de vídeo, arquivos compactos, banco de dados e arquivos executáveis. 
 
 b.2 discuta as implicações relacionadas a dados públicos 
-entede-se que os dados pessoais devem ser tratados considerando a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização. 
-Assim sendo, a LGPD define, por exemplo, que uma organização pode, sem precisar pedir novo consentimento, tratar dados tornados anterior e manifestamente 
+entede-se que os dados pessoais devem ser tratados considerando a finalidade, 
+a boa-fé e o interesse público que justificaram a sua disponibilização. 
+Assim sendo, a LGPD define, por exemplo, que uma organização pode, sem precisar pedir novo consentimento, 
+tratar dados tornados anterior e manifestamente 
 2 – Inclua seus comentários no arquivo de texto NO GitHub
 
 Referências: 
+
+
+
+TRABALHO 3 
+
+
+1 – Explique as diferenças entre 3 linguagens de programação:
+Python apresenta uma legibilidade do código mais fácil de compreensão, em que são utilizadas palavras-chave em inglês. 
+Ademais, não são utilizados recursos gráficos como chaves e colchetes para delimitar blocos. 
+Java é utilizada em sites front-end e no deenvolvimento de jogos, e que as empresas como Linkedin e WordPress a utilizam para suas plataformas. 
+CSS é uma linguagem estilística que é usada como documento escrito em HTML ou XML, sendo uma das principais linguagens da open web,
+que auxilia na estilização e organização das páginas web.
+
+
+a. Tente fazer um código mínimo em cada uma delas; 
+
+Python 
+print ("Bom dia, prezados")
+
+b. Tente executar o seu código; 
+
+
+
+2 – Inclua seus comentários em arquivo de texto NO github 
+
