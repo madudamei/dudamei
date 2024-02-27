@@ -69,9 +69,10 @@ desenvolvimento de jogos, análise de dados e muito mais.
 a. Tente fazer um código mínimo em cada uma delas; 
 
 Python 
-print ("Bom dia, prezados")
+print ("Boa moite, prezado")
 
 b. Tente executar o seu código; 
+tem os print do Java, Ruby e Python nas pastas ao lado. 
 
 2 – Inclua seus comentários em arquivo de texto NO github 
 
